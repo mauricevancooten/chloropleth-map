@@ -6,7 +6,7 @@
 
 ## Resources
 
-Open source New Zealand Statistics: [Statistics New Zealand](http://nzdotstat.stats.govt.nz/)
+Open source New Zealand statistics: [Statistics New Zealand](http://nzdotstat.stats.govt.nz/)
 
 ## Licence
 
